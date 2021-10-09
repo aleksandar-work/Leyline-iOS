@@ -1,0 +1,27 @@
+query GetUserInfo {
+  user {
+    leylinePoints
+    dailySleepAvailable
+    dailyExerciseAvailable
+  }
+}
+
+query IsSleepAvailable {
+  user {
+    dailySleepAvailable
+  }
+}
+
+query IsExerciseAvailable {
+  user {
+    dailyExerciseAvailable
+  }
+}
+
+mutation DailyExercise {
+    dailyExercise
+}
+
+mutation DailySleep {
+    dailySleep
+}

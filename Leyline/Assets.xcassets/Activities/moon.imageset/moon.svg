@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="108px" height="85.667px" viewBox="0 -17.333 108 85.667" enable-background="new 0 -17.333 108 85.667"
+	 xml:space="preserve">
+<g>
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="21.5522" y1="10.9463" x2="72.2532" y2="67.1657">
+		<stop  offset="0" style="stop-color:#89CCF9"/>
+		<stop  offset="1" style="stop-color:#603BD9"/>
+	</linearGradient>
+	<path fill="url(#SVGID_1_)" d="M14.561,30.941c0,20.042,16.248,36.289,36.29,36.289c16.344,0,30.671-10.926,34.996-26.687
+		c-17.243,7.387-37.211-0.604-44.599-17.847c-3.659-8.542-3.659-18.21,0-26.752C25.488,0.271,14.563,14.598,14.561,30.941z"/>
+	<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="62.7979" y1="-26.251" x2="113.5018" y2="29.9718">
+		<stop  offset="0" style="stop-color:#89CCF9"/>
+		<stop  offset="1" style="stop-color:#603BD9"/>
+	</linearGradient>
+	<polygon fill="url(#SVGID_2_)" points="95.43,-2.396 87.746,-5.664 84.311,-12.972 80.873,-5.664 73.19,-2.396 80.873,0.871 
+		84.311,8.179 87.746,0.871 	"/>
+	<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="45.249" y1="-10.4268" x2="95.9544" y2="45.7976">
+		<stop  offset="0" style="stop-color:#89CCF9"/>
+		<stop  offset="1" style="stop-color:#603BD9"/>
+	</linearGradient>
+	<polygon fill="url(#SVGID_3_)" points="71.021,24.749 73.165,20.189 77.959,18.149 73.165,16.111 71.021,11.55 68.877,16.111 
+		64.081,18.149 68.877,20.189 	"/>
+	<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="51.083" y1="-15.6841" x2="101.7818" y2="40.533">
+		<stop  offset="0" style="stop-color:#89CCF9"/>
+		<stop  offset="1" style="stop-color:#603BD9"/>
+	</linearGradient>
+	<polygon fill="url(#SVGID_4_)" points="57.144,-15.563 54.998,-11.003 50.204,-8.964 54.998,-6.925 57.144,-2.365 59.287,-6.925 
+		64.081,-8.964 59.287,-11.003 	"/>
+</g>
+</svg>
